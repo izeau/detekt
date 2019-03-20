@@ -23,12 +23,11 @@
     edx: 'https://courses.edx.org/login?next=/favicon.ico',
     expedia: 'https://www.expedia.de/user/login?ckoflag=0&selc=0&uurl=qscr%3Dreds%26rurl%3D%252Ffavicon.ico',
     facebook: 'https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffavicon.ico%3F_rdr%3Dp',
-    flickr: 'https://www.flickr.com/signin/yahoo/?redir=https%3A%2F%2Fwww.flickr.com/favicon.ico',
     foursquare: 'https://de.foursquare.com/login?continue=%2Ffavicon.ico',
     github: 'https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ffavicon.ico%3Fid%3D1',
     gmail: 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.google.com%2Ffavicon.ico&uilel=3&hl=en&service=mail',
     googleplus: 'https://plus.google.com/up/accounts/upgrade/?continue=https://plus.google.com/favicon.ico',
-    hackernews: 'https://news.ycombinator.com/login?goto=favicon.ico%23',
+    hackernews: 'https://news.ycombinator.com/login?goto=y18.gif%23',
     indeed: 'https://secure.indeed.com/account/login?continue=%2ffavicon.ico',
     khanacademy: 'https://www.khanacademy.org/login?continue=https%3A//www.khanacademy.org/favicon.ico',
     medium: 'https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2Ffavicon.ico&loginType=default',
@@ -42,9 +41,9 @@
     square: 'https://squareup.com/login?return_to=%2Ffavicon.ico',
     steam: 'https://store.steampowered.com/login/?redir=favicon.ico',
     tumblr: 'https://www.tumblr.com/login?redirect_to=%2Ffavicon.ico',
-    twitter: 'https://twitter.com/login?redirect_after_login=%2Ffavicon.ico',
+    twitter: 'https://twitter.com/login?redirect_after_login=%2f..%2ffavicon.ico',
     vk: 'https://vk.com/login?u=2&to=ZmF2aWNvbi5pY28-',
-    youtube: 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Ffavicon.ico&uilel=3&hl=en&service=youtube'
+    youtube: 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Ffavicon.ico&uilel=3&hl=en&service=youtube',
   };
 
   return function(service, callback) {

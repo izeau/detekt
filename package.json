@@ -1,6 +1,6 @@
 {
   "name": "detekt",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Detect if a user is logged in to a certain website",
   "main": "index.js",
   "scripts": {
